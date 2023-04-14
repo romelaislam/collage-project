@@ -1,0 +1,15 @@
+.mood{
+    background:blueviolet;
+}
+
+.top{
+    height: 50px !important;
+    width: 50px !important;
+}
+.pc{
+    color: white;
+    font-size: 26px;
+}
+.h{
+    font-family: 'Edu NSW ACT Foundation', cursive; 
+}
